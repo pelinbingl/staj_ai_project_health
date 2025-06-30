@@ -1,0 +1,8 @@
+transformers
+huggingface_hub
+torchaudio
+gradio
+pdfplumber
+PyMuPDF
+tesseract
+openai
